@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Credentials">
+        <setting id="username" type="text" default="" label="Username"/>
+        <setting id="password" type="text" default="" option="hidden" label="Password"/>
+        <setting id="timezone" type="select" default="" label="Timezone Offset" values="00: UTC-12:00|01: UTC-11:00|02: UTC-10:00|03: UTC-09:00|04: UTC-08:00|05: UTC-07:00|06: UTC-06:00|07: UTC-05:00|08: UTC-04:00|09: UTC-03:00|10: UTC-02:00|11: UTC-01:00|12: UTC|13: UTC+01:00|14: UTC+02:00|15: UTC+03:00|16: UTC+04:00|17: UTC+05:00|18: UTC+06:00|19: UTC+07:00|20: UTC+08:00|21: UTC+09:00|22: UTC+10:00|23: UTC+11:00|24: UTC+12:00" />
+    </category>
+</settings>

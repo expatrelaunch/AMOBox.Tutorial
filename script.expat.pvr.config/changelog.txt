@@ -1,0 +1,15 @@
+[COLOR=blue][B]1.0.3[/B][/COLOR]
+
+-No need to enter OS!
+
+[COLOR=blue][B]1.0.2[/B][/COLOR]
+
+-Changed path of XMLTV file. Also added timezone offset natively into config tool.
+
+[COLOR=blue][B]1.0.1[/B][/COLOR]
+
+-Added Operating System setting to allow users to select their operating system to fix issue with Config Tool not installing on Windows.
+
+[COLOR=blue][B]1.0.0[/B][/COLOR]
+
+-First release!

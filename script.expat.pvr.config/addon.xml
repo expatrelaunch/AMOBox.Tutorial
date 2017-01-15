@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.expat.pvr.config" name="eXpat PVR Config Tool" version="2.1.0" provider-name="bit.ly/AMObox">
+    <requires>
+        <import addon="pvr.iptvsimple"/>
+        <import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Configures IPTV Simple Client for Team eXpat</summary>
+		<description lang="en">eXpat PVR Config Tool allows you to easily integrate your eXpat IPTV credentials into a PVR service. Use IPTV Simple Client to browse eXpat channels with a fully functioning EPG and channel list.</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+	</extension>
+</addon>
