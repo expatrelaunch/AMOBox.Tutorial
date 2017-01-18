@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.team.expat" name="Team eXpat Repository" version="1.1.0" provider-name="Team-eXpat">
-	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
-		<info compressed="false">https://raw.github.com/expatrelaunch/team.expat/master/addons.xml</info>
-		<checksum>https://raw.github.com/expatrelaunch/team.expat/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.github.com/expatrelaunch/team.expat/master/repo/</datadir>
+<addon id="repository.team.expat" name="Team eXpat Repository" version="1.1.1" provider-name="Team-eXpat">
+	<extension point="xbmc.addon.repository" name="Team Expat Repository">
+		<info compressed="false">https://cdn.rawgit.com/expatrelaunch/team.expat/1086fc02/repo/addons.xml</info>
+		<checksum>https://cdn.rawgit.com/expatrelaunch/team.expat/1086fc02/repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://cdn.rawgit.com/expatrelaunch/team.expat/1086fc02/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Team eXpat Addons</summary>
